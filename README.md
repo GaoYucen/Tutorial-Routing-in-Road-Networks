@@ -18,4 +18,4 @@ This is a tutorial for routing in road networks.
   - ETA
     - VLDB 2022-Route Travel Time Estimation on A Road Network Revisited: Heterogeneity, Proximity, Periodicity and Dynamicity
   - Multiple routes
-    - Diversified Top-𝑘 Route Planning in Road Network
+    - VLDB 2022-Diversified Top-𝑘 Route Planning in Road Network
