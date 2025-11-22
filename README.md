@@ -2,8 +2,8 @@
 
 This is a tutorial for routing in road networks.
 
-- Code
-  - [DRNCS ] [ECML-PKDD 2025]: a learning-based route planning method combined with partitioning
+- Model/Algorithm
+  - [DRNCS] [ECML-PKDD 2025]: a learning-based route planning method combined with partitioning
     https://github.com/iairplane/DRNCS.git
 
 - References

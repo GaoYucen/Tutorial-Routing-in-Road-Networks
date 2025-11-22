@@ -67,9 +67,30 @@ python valid.py  # or valid_hierarchy.py
 
 ---
 
+## 📖 Citation Format
+
+You may cite our work using the following formats:
+
+**BibTeX**
+```bibtex
+@inproceedings{DBLP:conf/pkdd/LiGYLGGC25,
+  author       = {Zhuoran Li and Yucen Gao and Yu Yin and Xinle Li and Hui Gao and Xiaofeng Gao and Guihai Chen},
+  title        = {{DRNCS:} Dual-Level Route Generation Model Based on Node Contraction and Shortcuts},
+  booktitle    = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, ECML PKDD 2025, Porto, Portugal, September 15-19, 2025, Proceedings, Part III},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {16015},
+  pages        = {177--192},
+  publisher    = {Springer},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/978-3-032-06066-2_11},
+  doi          = {10.1007/978-3-032-06066-2_11}
+}
+```
+
+---
+
 ## 📬 Contact
 
 For questions or contributions, feel free to open an issue or submit a pull request.
 
 ---
-
